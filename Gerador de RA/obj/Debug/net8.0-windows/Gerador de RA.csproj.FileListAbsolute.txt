@@ -1,0 +1,16 @@
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\bin\Debug\net8.0-windows\Gerador de RA.exe
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\bin\Debug\net8.0-windows\Gerador de RA.deps.json
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\bin\Debug\net8.0-windows\Gerador de RA.runtimeconfig.json
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\bin\Debug\net8.0-windows\Gerador de RA.dll
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\bin\Debug\net8.0-windows\Gerador de RA.pdb
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador_de_RA.Form1.resources
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.csproj.GenerateResource.cache
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.dll
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\refint\Gerador de RA.dll
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.pdb
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\Gerador de RA.genruntimeconfig.cache
+C:\Users\Vitor\source\repos\Gerador de RA\Gerador de RA\obj\Debug\net8.0-windows\ref\Gerador de RA.dll
